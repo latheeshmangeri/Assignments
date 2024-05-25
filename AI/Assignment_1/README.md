@@ -80,7 +80,7 @@ The assignments will be graded out of 100 points.
     
 *   Negative points: penalty points will be awarded by the instructor and TA generously and at will, for issues such as: submission not including precise and accurate instructions for how to run the code, wrong compression format for the submission, or other failures to comply with the instructions given for this assignment. Partial credit for incorrect solutions will be given ONLY for code that is well designed and well documented. Code that is badly designed and badly documented can still get credit only as long as it accomplishes the required tasks.
 
-### Supplementary Information
+# Sample Outputs
 
 Traces of sample runs are provided here. These are provided to show how the nodes are visited and how counters are updated for sample cases. You DO NOT need to generate such output.  
 
@@ -90,23 +90,6 @@ Traces of sample runs are provided here. These are provided to show how the node
 *   [London to Kassel (Informed)](https://github.com/latheeshmangeri/Assignments/blob/main/AI/Assignment_1/Sample%20Outputs/informed2.txt)  
     
 
-* * *
-
-How to submit
--------------
-
-For each part: Implementations in C, C++, Java, and Python will be accepted. Points will be taken off for failure to comply with this requirement.  
-  
-Create a ZIPPED folder called <net-id>\_assmt1.zip (no other forms of compression accepted, contact the instructor or TA if you do not know how to produce .zip files).  
-The folder should contain just the source code (No need to submit compiled binaries or any test files). It should also contain a file called readme.txt, which should specify precisely:  
-
-*   Name and UTA ID of the student.
-*   What programming language is used for this task. (also mention if the code is omega compatible)  
-    
-*   How the code is structured.
-*   How to run the code, including very specific compilation instructions, if compilation is needed. Instructions such as "compile using g++" are NOT considered specific if the TA needs to do additional steps to get your code to run.
-*   Insufficient or unclear instructions will be penalized.
-*   Code that the TA cannot run gets AT MOST 75% credit.
 
 ## Files
 * find_route.py : Project code(Python)
