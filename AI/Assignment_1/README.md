@@ -1,8 +1,6 @@
 # Assignment 1-Uninformed & Informed Search
 
-Latheesh Mangeri - 1002116009
-
-## Problem
+# Latheesh Mangeri - 1002116009
 
 ### Max: \[4308: 100 Points, 5360: 100 Points\]
 
