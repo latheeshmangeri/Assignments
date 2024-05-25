@@ -1,5 +1,5 @@
 
-Arguments : ['input1.txt', 'Bremen', 'Kassel', 'h_kassel1.txt']
+Arguments : ['input1.txt', 'Bremen', 'Kassel', 'h_kassel.txt']
 
 Informed Search selected
 
