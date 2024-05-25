@@ -84,10 +84,10 @@ The assignments will be graded out of 100 points.
 
 Traces of sample runs are provided here. These are provided to show how the nodes are visited and how counters are updated for sample cases. You DO NOT need to generate such output.  
 
-*   [Bremen to Kassel (Uninformed)](https://crystal.uta.edu/~gopikrishnav/classes/2024/spring/4308_5360/assmts/assmt1_files/uninformed1.txt)
-*   [Bremen to Kassel (Informed)](https://crystal.uta.edu/~gopikrishnav/classes/2024/spring/4308_5360/assmts/assmt1_files/informed1.txt)
-*   [London to Kassel (Uninformed)](https://crystal.uta.edu/~gopikrishnav/classes/2024/spring/4308_5360/assmts/assmt1_files/uninformed2.txt)
-*   [London to Kassel (Informed)](https://crystal.uta.edu/~gopikrishnav/classes/2024/spring/4308_5360/assmts/assmt1_files/informed2.txt)  
+*   [Bremen to Kassel (Uninformed)](https://github.com/latheeshmangeri/Assignments/blob/main/AI/Assignment_1/Sample%20Outputs/uninformed1.txt)
+*   [Bremen to Kassel (Informed)](https://github.com/latheeshmangeri/Assignments/blob/main/AI/Assignment_1/Sample%20Outputs/informed1.txt)
+*   [London to Kassel (Uninformed)](https://github.com/latheeshmangeri/Assignments/blob/main/AI/Assignment_1/Sample%20Outputs/uninformed2.txt)
+*   [London to Kassel (Informed)](https://github.com/latheeshmangeri/Assignments/blob/main/AI/Assignment_1/Sample%20Outputs/informed2.txt)  
     
 
 * * *
