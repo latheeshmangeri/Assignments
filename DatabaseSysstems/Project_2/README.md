@@ -1,6 +1,5 @@
-﻿**CSE 5330-002	FALL 2023**
 
-**Project #2 Description**
+**Project 2 Description**
 
 In this project, you will design and implement a database for a banking system. The detailed requirements for this system is as follows. You will first design an ER/EER schema diagram for this database application. Then, you will map the ER/EER schema into a relational database schema and implement it on ORACLE/MySQL in Omega. Finally, you will load some data into your database, and create some queries and update transactions.
 
