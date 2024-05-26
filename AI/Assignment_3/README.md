@@ -1,6 +1,6 @@
 # Assignment 3 - Posterior Proabilites and Bayesian Networks  
 
-## Latheesh Mangeri - 1002116009
+## Latheesh Mangeri
  Assignment 3
 
 

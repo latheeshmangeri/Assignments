@@ -1,6 +1,6 @@
 # Naive Bayes algorithm for learning to classify text
 
-Latheesh Mangeri - 1002116009
+Latheesh Mangeri
 
 I certify that I have neither provided nor received unauthorized assistance on this project, and that I will not release this project description or my solution to anyone else.
 
