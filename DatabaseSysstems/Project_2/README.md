@@ -33,14 +33,3 @@ The following are the tasks for the third part of the project:
    1. To notify a member about the interest rate change due to balance falling below certain amount, say $1000. 
    1. Updating the manager details (manager SSN) in the event of a new manager replacing one existing one.
 1. Each transaction should have a user friendly interface to enter the information needed by the transaction. This can either be a Web-based interface, a command line interface, or a forms interface.
-
-Due Dates:
-
-1. Parts 1 and 2 Due Date: Sunday Nov 12, 2023. This should include for Part 1 the EER diagrams for your designs as well as documentation describing any assumptions you made, and the reasons for your design choices. Draw the EER diagrams using the notation in the textbook. You can also use UML class diagrams notation. You can use any drawing tool for drawing your diagrams. For part 2, what you turn in should include your relational schema diagram design and your CREATE table statements, and documentation describing your EER-to-relational mapping choices.
-1. Part 3 Due Date: Sunday Nov 19, 2023. This will include a demo demonstrating that your implementation works, as well as demonstrating your transactions to the grader. Source code of all your transactions should be submitted, as well as the data files. A demo schedule will be determined before the due date.
-
-The work need to be submitted in Canvas, for which the TA will create a link and make an announcement. 
-
-Late penalty: -5% per day late for each parts.
-
-Project teams: Each project can be done in a team of 2 persons, or individually.
