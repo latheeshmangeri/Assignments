@@ -1,4 +1,4 @@
-# Project 1- Iris Data Classification
+# Iris Data Classification
 
 Latheesh Mangeri - 1002116009
 
