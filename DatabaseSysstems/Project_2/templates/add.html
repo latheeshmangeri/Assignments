@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Entry to {{ table_name }}</title>
+</head>
+<body>
+    <h1>Add Entry to {{ table_name }}</h1>
+    <form method="POST" action="/table/{{ table_name }}/add">
+        <!-- Add form fields based on the table structure -->
+        <!-- Example: <label for="column_name">Column Name:</label>
+             <input type="text" id="column_name" name="column_name" required> -->
+        <button type="submit">Submit</button>
+    </form>
+
+    <a href="/table/{{ table_name }}">Back to {{ table_name }} Table</a>
+</body>
+</html>
