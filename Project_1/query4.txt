@@ -1,0 +1,9 @@
+mysql> source query4.sql
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+ERROR 1062 (23000): Duplicate entry '1930' for key 'world_cups.PRIMARY'
+ERROR 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`lxm6009`.`world_cup_players`, CONSTRAINT `fk_world_cup_players_roundid` FOREIGN KEY (`ROUNDID`) REFERENCES `world_cup_matches` (`ROUNDID`))
+ERROR 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`lxm6009`.`world_cup_matches`, CONSTRAINT `fk_world_cup_matches_year` FOREIGN KEY (`YEAR`) REFERENCES `world_cups` (`YEAR`))
+mysql> QUIT

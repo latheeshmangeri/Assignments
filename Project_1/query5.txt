@@ -1,0 +1,7 @@
+mysql> source query5.sql
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+ERROR 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`lxm6009`.`world_cup_players`, CONSTRAINT `fk_world_cup_players_roundid` FOREIGN KEY (`ROUNDID`) REFERENCES `world_cup_matches` (`ROUNDID`))
+mysql> exit
