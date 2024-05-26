@@ -1,5 +1,5 @@
 ﻿
-**Project 1**
+**Databse System Project 1**
 
 In this project, you will get started on how to use a relational DBMS. You can either use the ORACLE RDBMS, or the MySQL system (if you want to use a different system, check with the instructor first). You will use the interactive SQLPLUS facility, and the SQL programming facility, by creating tables, populating them with data, and querying and updating the tables. You should do the following:
 
